@@ -1,0 +1,17 @@
+{
+  "name": "fetch-cors-mixins",
+  "version": "0.0.1",
+  "description": "wrap fetch api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinkGu/fetch-cors-mixins.git"
+  },
+  "keywords": [
+    "fecth",
+    "cors"
+  ],
+  "author": "TinkGu",
+  "license": "MIT",
+  "homepage": "https://github.com/TinkGu/fetch-cors-mixins#readme"
+}
